@@ -26,5 +26,3 @@ Meu foco é dar vida a ideias e facilitar vidas.
 - 💼 [LinkedIn](https://linkedin.com/in/) *(adicione seu link)*  
 - 🌐 Portfólio (em breve)  
 - ✉️ **willian@email.com**
-
-<img src="https://raw.githubusercontent.com/Will-Sigh/Will-Sigh/main/starwars.svg" alt="Star Wars animation">
