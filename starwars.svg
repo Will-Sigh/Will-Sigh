@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="spaceGradient" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="100%" stop-color="#020024" />
+    </linearGradient>
+
+    <style>
+      @keyframes crawl {
+        0% { transform: translateY(100%); }
+        100% { transform: translateY(-300%); }
+      }
+
+      text {
+        font-family: 'Arial Black', sans-serif;
+        fill: #ffe81f;
+        text-anchor: middle;
+      }
+
+      .logo {
+        font-size: 40px;
+        letter-spacing: 3px;
+        animation: fade 4s ease-in forwards;
+      }
+
+      .crawl {
+        font-size: 20px;
+        transform-origin: 50% 100%;
+        animation: crawl 60s linear infinite;
+      }
+
+      @keyframes fade {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="100%" height="100%" fill="url(#spaceGradient)" />
+
+  <!-- estrelas -->
+  <g>
+    <circle cx="50" cy="50" r="1" fill="white" />
+    <circle cx="200" cy="100" r="1.5" fill="white" />
+    <circle cx="400" cy="80" r="1" fill="white" />
+    <circle cx="550" cy="300" r="1.2" fill="white" />
+    <circle cx="300" cy="350" r="1" fill="white" />
+  </g>
+
+  <!-- logo -->
+  <text x="50%" y="30%" class="logo">STAR&nbsp;WARS</text>
+
+  <!-- texto rolando -->
+  <g transform="perspective(400px) rotateX(25deg)">
+    <text x="50%" y="120%" class="crawl">
+      A long time ago, in a galaxy far, far away...
+      &#10;&#10;
+      Episode IV — A NEW HOPE
+      &#10;&#10;
+      It is a period of civil war.
+      Rebel spaceships, striking
+      from a hidden base, have won
+      their first victory against
+      the evil Galactic Empire...
+    </text>
+  </g>
+</svg>
