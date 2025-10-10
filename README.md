@@ -23,6 +23,7 @@ Meu foco é dar vida a ideias e facilitar vidas.
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/) *(adicione seu link)*  
-- 🌐 Portfólio (em breve)  
-- ✉️ **willian@email.com**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/will-sighinolfi-6a3974172/)
+- 🌐 [Portfólio](https://will-sigh.github.io/portfolio/)
+
