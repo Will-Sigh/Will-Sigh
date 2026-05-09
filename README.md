@@ -18,7 +18,7 @@ Meu foco é dar vida a ideias e facilitar vidas.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ### 🤖 Automations & Tools  
-![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white) ![Appsmith](https://img.shields.io/badge/Appsmith-000000?style=for-the-badge&logo=appsmith&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper.cpp-000000?style=for-the-badge&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white) ![Appsmith](https://img.shields.io/badge/Appsmith-000000?style=for-the-badge&logo=appsmith&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
